@@ -9,7 +9,7 @@
 I personally use the font: CheGuevara Barry Brown, and the Cs2 default font.
 <img src="https://github.com/chronixyk/cs2/blob/main/assets/CheGuevara-Barry-Brown.webp"/>
 ## How I install the font in my game?
-[Tutorial](https://www.youtube.com/watch?v=qNFweOYmAYw)
+[Tutorial](https://www.youtube.com/watch?v=qNFweOYmAYw) OR [Font Changer](https://github.com/chronixyk/cs2/releases/tag/font)
 ## How can I get your cfg?
 [Click here](https://github.com/chronixyk/cs2/releases/download/v1/autoexec.cfg)
 When the file is installed go to your local disk, Program Files (x86), Steam, steam apps, common, Counter-Strike Global Offensive, game, csgo and finally cfg. paste the file there.
